@@ -15,7 +15,7 @@ see requirements.txt
 The raw dataset generated and/or analyzed during the present study are now [available](http://140.121.135.204/aicenter/publications.html), under the repository name of Anomaly Behavior Recognition of underwater creatures Using Lite 3D Full-Convolution Network.
 
 ## Models
-The Models must be [downloaded](https://drive.google.com/drive/folders/13BjuVBc6bTYutdx1YoeEtNK8MGj6jYbF?usp=sharing) and placed in the following path.
+The npu file must be [downloaded](https://drive.google.com/drive/folders/13BjuVBc6bTYutdx1YoeEtNK8MGj6jYbF?usp=sharing) and placed in the following path.
 <pre>
 ─ .idea/
 ─ asset/
@@ -23,7 +23,7 @@ The Models must be [downloaded](https://drive.google.com/drive/folders/13BjuVBc6
 ─ LoadData.py
 ─ imgto3d.py
 ─ requirements.txt
-─ <b>lobster.weights</b>
+─ <b>mix_fishaction_screen_v04_7_10_True.npz</b>
 ─ train.py
 ─ ...
 </pre>
