@@ -11,10 +11,10 @@ This is a project to detect anomaly behaviors of underwater creatures.
 ## Requirements
 see requirements.txt
 
-## DataSet
+## RawDataSet
 The raw dataset generated and/or analyzed during the present study are now [available](http://140.121.135.204/aicenter/publications.html), under the repository name of Anomaly Behavior Recognition of underwater creatures Using Lite 3D Full-Convolution Network.
 
-## Models
+## Npz File
 The <b>npz file</b> must be [downloaded](https://drive.google.com/drive/folders/1CrsJNDQt15mAr9f8085Guj9KktJhkx7Z?usp=share_link) and placed in the following path.
 <pre>
 ─ .idea/
