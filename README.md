@@ -14,6 +14,20 @@ see requirements.txt
 ## DataSet
 The raw dataset generated and/or analyzed during the present study are now [available](http://140.121.135.204/aicenter/publications.html), under the repository name of Anomaly Behavior Recognition of underwater creatures Using Lite 3D Full-Convolution Network.
 
+## Models
+The Models must be [downloaded](https://drive.google.com/drive/folders/13BjuVBc6bTYutdx1YoeEtNK8MGj6jYbF?usp=sharing) and placed in the following path.
+<pre>
+─ .idea/
+─ asset/
+─ utils/
+─ LoadData.py
+─ imgto3d.py
+─ requirements.txt
+─ <b>lobster.weights</b>
+─ train.py
+─ ...
+</pre>
+
 ## Train
 You can train your model with train.py\
 `python train.py  --output mix_fars_v04_result/`
