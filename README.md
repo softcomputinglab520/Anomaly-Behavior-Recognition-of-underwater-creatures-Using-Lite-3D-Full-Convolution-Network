@@ -12,7 +12,7 @@ This is a project to detect anomaly behaviors of underwater creatures.
 see requirements.txt
 
 ## DataSet
-The raw dataset generated and/or analyzed during the present study are now available and can be accessed through the [link](http://140.121.135.204/aicenter/publications.html), under the repository name of Anomaly Behavior Recognition of underwater creatures Using Lite 3D Full-Convolution Network.
+The raw dataset generated and/or analyzed during the present study are now [available](http://140.121.135.204/aicenter/publications.html), under the repository name of Anomaly Behavior Recognition of underwater creatures Using Lite 3D Full-Convolution Network.
 
 ## Train
 You can train your model with train.py\
